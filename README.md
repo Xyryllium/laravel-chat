@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 1. Rename or copy `.env.example` file to `.env`
 1. `php artisan key:generate`
 1. Set your database credentials in your `.env` file
-1. Set your Stripe credentials in your `.env` file. Specifically `PUSHER_APP_KEY` and `PUSHER_APP_SECRET`
+1. Set your Pusher credentials in your `.env` file. Specifically `PUSHER_APP_KEY` and `PUSHER_APP_SECRET`
 1. `npm install`
 1. `npm run dev`
 1. `php artisan serve` or use Laravel Valet or Laravel Homestead
