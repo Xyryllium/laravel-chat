@@ -41,5 +41,5 @@ A step by step series of examples that tell you how to get a development env run
 
 * **Xyryl Aranza** - *Initial work* - [Xyryllium](https://github.com/Xyryllium)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Xyryllium/laravel-chat/contributors) who participated in this project.
 
